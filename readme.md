@@ -13,12 +13,12 @@ be be beu
 links que quiseres
 
 <h2> Linguas </h2>
-
-beu beu bue
+<p> Portugues </p>
 
 
 <h2> Certificações </h2>
 UDEMY
+Universidade do Minho
 
 <h2> Data analytics </h2>
 R
